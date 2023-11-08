@@ -10,7 +10,11 @@
 
 ## Consegna base
 
+...
+
 ## Consegna bonus
+
+...
 
 ## Svolgimento base
 
