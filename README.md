@@ -1,4 +1,4 @@
-- [html-css-myTitle](#html-css-mytitle)
+- [](#)
   - [Consegna base](#consegna-base)
   - [Consegna bonus](#consegna-bonus)
   - [Svolgimento base](#svolgimento-base)
@@ -6,15 +6,11 @@
     - [Analisi tecnica](#analisi-tecnica)
     - [Risultato ottenuto](#risultato-ottenuto)
 
-# html-css-myTitle
+# 
 
 ## Consegna base
 
-...
-
 ## Consegna bonus
-
-...
 
 ## Svolgimento base
 
